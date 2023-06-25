@@ -1,4 +1,4 @@
-# Welcome to the Xeoverse!
+## Welcome to the Xeoverse!
 
 A next-generation metaverse.
 
